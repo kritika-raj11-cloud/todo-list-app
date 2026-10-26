@@ -29,6 +29,9 @@ A simple full-stack To-Do List application built to manage daily tasks.
 # Storage
 Tasks are stored locally in `tasks.json`.
 
+# Live Demo
+https://todo-list-app-0z57.onrender.com
+
 # Author
 Created as a internship full-stack development project.
 
