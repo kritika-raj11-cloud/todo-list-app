@@ -24,7 +24,6 @@ A simple full-stack To-Do List application built to manage daily tasks.
    `npm install`
 5. Start the server:
    `npm start`
-6. Open http://localhost:5000 in your browser.
 
 # Storage
 Tasks are stored locally in `tasks.json`.
